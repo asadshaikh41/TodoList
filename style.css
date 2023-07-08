@@ -1,0 +1,41 @@
+.container {
+    max-width: 500px;
+    margin: 7% auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    box-shadow: 0 2px 4px 3px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+ 
+  input[type="text"] {
+    box-shadow: 0 2px 4px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+   
+  button {
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  
+  li {
+    box-shadow: 0 2px 4px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: #888;
+    font-style: italic;
+  }
+  
