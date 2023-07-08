@@ -7,7 +7,7 @@ A simple web application to manage your todo list. Add, complete, edit, and dele
 ![screencapture-127-0-0-1-5500-index-html-2023-07-09-03_32_23 (1)](https://github.com/asadshaikh41/Todolist/assets/87890728/7bf61105-5a20-4b46-ba20-30c588be4eff)
 
 
-[View Demo](https://[your-demo-url.com](https://asadshaikh41.github.io/Todolist/))
+[View Demo](https://asadshaikh41.github.io/Todolist/))
 
 ## Features
 
